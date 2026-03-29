@@ -25,7 +25,7 @@ digital-literacy-project/
 │
 ├── README.md
 ├── report/
-│   └── Project_Report.pdf
+│   └── Project Report-Digital Literacy.pdf
 │
 ├── task-1-presentation/
 ├── task-2-portfolio/
@@ -39,10 +39,10 @@ digital-literacy-project/
 ## Module-wise Summary
 
 ### Module 1: Presentation & Digital Awareness
-This module focuses on creating visual content using tools like Canva, Prezi, and PowerPoint. It introduces the fundamentals of digital literacy, including safe internet practices, professional presence, and effective communication through visuals.
+This module focuses on creating visual content using tools like Canva, Prezi, or Miro etc. It introduces the fundamentals of digital literacy, including safe internet practices, professional presence, and effective communication through visuals.
 
 **Application in Project:**  
-Designed a digital literacy infographic highlighting key concepts such as online safety, digital tools, and responsible usage, using Canva as the main tool for development 
+Designed a digital literacy infographic highlighting key concepts such as what is digital literacy, safe internet practices, digital tools, and online presence, using Canva as the main tool for development.
 
 ---
 
